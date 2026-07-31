@@ -1,6 +1,6 @@
 # Plant Pal
 
-A slim CLI plant tracker — keep an eye on health and water.
+Always dreamt of having a plant at work? Download Plant Pal a slim CLI garden that lives in your terminal. Water them, watch them grow, and keep an eye on their health between meetings.
 
 ## Download a release
 
