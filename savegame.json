@@ -1,0 +1,49 @@
+{
+  "schema_version": 2,
+  "coins": 30,
+  "shelf_capacity": 5,
+  "plants": [
+    {
+      "id": "envft16t",
+      "name": "Hello plant test",
+      "species_id": "spider_plant",
+      "stage": 0,
+      "health": 85.01344050595831,
+      "moisture": 54.92831730155555,
+      "growth": 0.05333534110449736,
+      "temperament": 3,
+      "last_watered": "2026-07-31T15:45:15.04039+02:00",
+      "planted_at": "2026-07-31T15:45:15.04039+02:00",
+      "overwater_hours": 0,
+      "last_care_day": "2026-07-31",
+      "had_good_care_today": true,
+      "care_streak": 0
+    },
+    {
+      "id": "7d16n26t",
+      "name": "Snake Plant",
+      "species_id": "snake_plant",
+      "stage": 0,
+      "health": 90.01344050595831,
+      "moisture": 34.955198313472216,
+      "growth": 0.062224564621913586,
+      "temperament": 1,
+      "last_watered": "2026-07-31T15:45:26.365528+02:00",
+      "planted_at": "2026-07-31T15:45:26.365528+02:00",
+      "overwater_hours": 0,
+      "last_care_day": "2026-07-31",
+      "had_good_care_today": true,
+      "care_streak": 0
+    }
+  ],
+  "memorial": null,
+  "unlocked_species": [
+    "cactus",
+    "spider_plant",
+    "snake_plant"
+  ],
+  "last_saved_at": "2026-07-31T15:50:40.826197+02:00",
+  "last_played_at": "2026-07-31T15:50:37.612533+02:00",
+  "time_scale": 1,
+  "seed": 3913439581644061288
+}
