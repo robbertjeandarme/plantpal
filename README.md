@@ -2,6 +2,26 @@
 
 A slim CLI plant tracker — keep an eye on health and water.
 
+## Build
+
+Requires [Go](https://go.dev/dl/) 1.26 or later.
+
+### macOS / Linux
+
+```bash
+go build -o plantpal .
+./plantpal
+```
+
+### Windows
+
+PowerShell or Command Prompt:
+
+```powershell
+go build -o plantpal.exe .
+.\plantpal.exe
+```
+
 ## Run
 
 ```bash
